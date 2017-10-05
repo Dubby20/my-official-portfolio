@@ -1,0 +1,125 @@
+nav {
+	width: 60%;
+	float: right;
+	overflow: hidden;
+	display: block;
+	padding-top: 30px;
+	margin: auto;
+	font-size: 20px;
+}
+
+header {
+	position: relative;
+	background-color: #e0ffff;
+	height: 180px;
+}
+
+header nav a {
+	text-decoration: none;
+	line-height: 1em;
+	display: block;
+	float: left;
+}
+
+.nav-color {
+	color: #ffffff;
+}
+
+.img-fluid {
+}
+
+.container-fullwidth {
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.navbar-brand {
+	font-size: 3em;
+	font-family: 'Fira Mono', monospace;
+	font-weight: bold;
+	letter-spacing: 2px;
+}
+
+#profile {
+	font-size: 27px;
+	font-family: 'Lobster Two', cursive;
+}
+
+/* .intro{
+    
+} */
+
+/* **************************************contact page style**************************************** */
+.contact-page {
+	background-color: #e0ffff;
+}
+
+.contact-nav {
+	padding: 0px;
+	margin: auto;
+}
+
+form {
+	width: 600px;
+	padding: 20px 10px 10px 10px;
+	margin: 0px auto;
+	box-shadow: 0px 10px 15px 3px;
+	border-radius: 5px;
+}
+
+form #message {
+	width: 100%;
+	border-radius: 5px;
+	background: #d6d6d6;
+}
+
+form input {
+	width: 100%;
+	border-radius: 5px;
+	height: 40px;
+	background: #d6d6d6;
+}
+
+.page-heading {
+	text-align: center;
+	/* margin: 50px; */
+	padding-top: 30px;
+	color: #db484b;
+}
+
+footer {
+	padding: 15px 20px 5px 20px;
+	background: #0b0b1a;
+	font-family: 'Crete Round', serif;
+	font-size: 20px;
+	/* text-decoration: right; */
+}
+
+footer {
+	color: whitesmoke;
+}
+
+/* .nav-link{
+    margin: 12px 5px 0px 0px;
+    
+}
+.nav-item{
+    margin: 0px 0px 0px 0px;
+}
+
+/* .pageheader{
+    background-color: #E0FFFF;
+    border: 10px;
+    float: left;
+    margin: 0px -15px 0px 15px;
+    
+}  */
+
+/*font-family: 'Titillium Web', 
+font-family: 'Lobster Two', cursive;
+font-family: 'Oxygen Mono', monospace;
+font-family: 'Fira Mono', monospace;
+sans-serif;
+font-family: 'Crete Round', serif;
+
+*/
