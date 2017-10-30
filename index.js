@@ -1,7 +1,7 @@
-var nav = document.getElementsByClassName('nav')
+// var nav = document.getElementsByClassName('nav')
 
-function changeColor() {
-	this.hover('nav-color')
-}
+// function changeColor() {
+// 	this.hover('nav-color')
+// }
 
-nav.addEventListener('click', changeColor)
+// nav.addEventListener('click', changeColor)

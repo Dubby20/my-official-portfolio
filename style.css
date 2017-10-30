@@ -1,31 +1,54 @@
 nav {
-	width: 60%;
+	width: 100%;
 	float: right;
-	overflow: hidden;
-	display: block;
-	padding-top: 30px;
-	margin: auto;
-	font-size: 20px;
+	overflow: visible;
+	margin: 5px 50px 0px 45px;
+	padding-top: 10px;
+	font-size: 18px;
 }
 
 header {
 	position: relative;
-	background-color: #e0ffff;
-	height: 180px;
+	background-color: #c5919d;
+	padding-left: 40px;
+	padding-right: 5px;
+	/* margin: 0px 0px 0px 0px; */
 }
 
 header nav a {
 	text-decoration: none;
 	line-height: 1em;
 	display: block;
-	float: left;
+	float: right;
+	color: #ffffff;
+}
+
+div.bk-image {
+	background-image: url("http://images.freeimages.com/images/large-previews/047/headed-down-1400175.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+/* .img-style {
+	border-bottom-left-radius: 50px;
+	border-top-left-radius: 50px;
+	border-top-right-radius: 50px;
+	border-top-left-radius: 50px;
+} */
+#site-header {
+	/* width: 100%; */
+}
+
+.brand-align {
+	line-height: 22px;
+}
+
+.nav-align {
 }
 
 .nav-color {
 	color: #ffffff;
-}
-
-.img-fluid {
 }
 
 .container-fullwidth {
@@ -34,15 +57,17 @@ header nav a {
 }
 
 .navbar-brand {
-	font-size: 3em;
+	font-size: 40px;
 	font-family: 'Fira Mono', monospace;
 	font-weight: bold;
 	letter-spacing: 2px;
+	margin-top: 18px;
 }
 
 #profile {
-	font-size: 27px;
+	font-size: 20px;
 	font-family: 'Lobster Two', cursive;
+	font-weight: bold;
 }
 
 /* .intro{
